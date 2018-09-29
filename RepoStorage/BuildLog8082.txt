@@ -1,0 +1,9 @@
+4/10/2018 6:37:37 PM ==> 
+4/10/2018 6:37:37 PM ==> Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+TestDriver2.cs(13,17): error CS0246: The type or namespace name 'Test34' could not be found (are you missing a using directive or an assembly reference?)
+

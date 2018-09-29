@@ -1,0 +1,14 @@
+D:\studies\SMA\Project4\XmlParser\bin\Debug\XmlParser.exe.config
+D:\studies\SMA\Project4\XmlParser\bin\Debug\XmlParser.exe
+D:\studies\SMA\Project4\XmlParser\bin\Debug\XmlParser.pdb
+D:\studies\SMA\Project4\XmlParser\obj\Debug\XmlParser.csproj.CoreCompileInputs.cache
+D:\studies\SMA\Project4\XmlParser\obj\Debug\XmlParser.exe
+D:\studies\SMA\Project4\XmlParser\obj\Debug\XmlParser.pdb
+D:\studies\SMA\Project4\XmlParser\obj\Debug\XmlParser.csprojResolveAssemblyReference.cache
+D:\studies\sem1\SMA\Project4\XmlParser\bin\Debug\XmlParser.exe.config
+D:\studies\sem1\SMA\Project4\XmlParser\bin\Debug\XmlParser.exe
+D:\studies\sem1\SMA\Project4\XmlParser\bin\Debug\XmlParser.pdb
+D:\studies\sem1\SMA\Project4\XmlParser\obj\Debug\XmlParser.csprojResolveAssemblyReference.cache
+D:\studies\sem1\SMA\Project4\XmlParser\obj\Debug\XmlParser.csproj.CoreCompileInputs.cache
+D:\studies\sem1\SMA\Project4\XmlParser\obj\Debug\XmlParser.exe
+D:\studies\sem1\SMA\Project4\XmlParser\obj\Debug\XmlParser.pdb

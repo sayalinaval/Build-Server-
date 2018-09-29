@@ -1,0 +1,138 @@
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\App.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\App.g.cs
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\BuildRequest.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\IService.dll
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\BuildRequest.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\BuildRequest.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\IService.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\IService.dll.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\Window1.baml
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\Study Material\Postgraduate\Semester 1\Software Modeling and Analysis - CSE 681\Project 3\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\App.g.cs
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\IService.dll
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\RepoStorage.exe
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\RepoStorage.pdb
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\RepoStorage.exe.config
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\IService.pdb
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\IService.dll.config
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\Window1.baml
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\studies\SMA\Proj3\Nilesh\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+D:\studies\SMA\Project3\proj3\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\studies\SMA\Project3\proj3\PluggableRepoClient\bin\Debug\IService.dll
+D:\studies\SMA\Project3\proj3\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\studies\SMA\Project3\proj3\PluggableRepoClient\bin\Debug\TestUtilities.exe
+D:\studies\SMA\Project3\proj3\PluggableRepoClient\bin\Debug\XmlParser.exe
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\App.g.cs
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\IService.dll
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\RepoStorage.exe
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\XmlParser.exe
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\TestUtilities.exe
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\IService.pdb
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\IService.dll.config
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\RepoStorage.pdb
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\RepoStorage.exe.config
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\XmlParser.pdb
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\XmlParser.exe.config
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\TestUtilities.pdb
+D:\studies\SMA\Project4\PluggableRepoClient\bin\Debug\TestUtilities.exe.config
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\Window1.baml
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\studies\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\IService.dll
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\RepoStorage.exe
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\XmlParser.exe
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\TestUtilities.exe
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\IService.pdb
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\IService.dll.config
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\RepoStorage.pdb
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\RepoStorage.exe.config
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\XmlParser.pdb
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\XmlParser.exe.config
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\TestUtilities.pdb
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\bin\Debug\TestUtilities.exe.config
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\Window1.g.cs
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\App.g.cs
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\MainWindow.baml
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\Window1.baml
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+D:\studies\sem1\SMA\Project4\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb

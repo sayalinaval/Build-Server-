@@ -1,0 +1,14 @@
+D:\studies\SMA\Project4\logger\obj\Debug\logger.csproj.CoreCompileInputs.cache
+D:\studies\SMA\Project4\logger\bin\Debug\logger.exe.config
+D:\studies\SMA\Project4\logger\bin\Debug\logger.exe
+D:\studies\SMA\Project4\logger\bin\Debug\logger.pdb
+D:\studies\SMA\Project4\logger\obj\Debug\logger.exe
+D:\studies\SMA\Project4\logger\obj\Debug\logger.pdb
+D:\studies\SMA\Project4\logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\studies\sem1\SMA\Project4\logger\bin\Debug\logger.exe.config
+D:\studies\sem1\SMA\Project4\logger\bin\Debug\logger.exe
+D:\studies\sem1\SMA\Project4\logger\bin\Debug\logger.pdb
+D:\studies\sem1\SMA\Project4\logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\studies\sem1\SMA\Project4\logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\studies\sem1\SMA\Project4\logger\obj\Debug\logger.exe
+D:\studies\sem1\SMA\Project4\logger\obj\Debug\logger.pdb
